@@ -51,4 +51,4 @@ print("Prueba ejercicio 4:", ejercicio_4([44, -33, 11, 22, 0, 42, 47, 12, 14]))
 
 -->
 
-[clase 3 - loops](https://colab.research.google.com/github/qsebas/clases-python/blob/main/clases/Curso_Python_clase_3.ipynb)
+[clase 3 - módulos](https://colab.research.google.com/github/qsebas/clases-python/blob/main/clases/Curso_Python_clase_3.ipynb)
