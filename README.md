@@ -1,5 +1,7 @@
 [clase 1 - tipos](https://colab.research.google.com/github/qsebas/clases-python/blob/main/clases/Curso_Python_clase_1.ipynb)
 
+[ejercicios resueltos clase 1](https://colab.research.google.com/github/qsebas/clases-python/blob/main/clases/ejercicios_resueltos_clase_1.ipynb)
+
 <!--
 ejerciocio 5
     palabra = max(texto.replace(".", "").replace(",", "").split(), key=len)
