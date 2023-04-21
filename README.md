@@ -1,15 +1,8 @@
-[clase 1 - tipos](https://colab.research.google.com/github/qsebas/clases-python/blob/main/clases/Curso_Python_clase_1.ipynb)
-
-[ejercicios resueltos clase 1](https://colab.research.google.com/github/qsebas/clases-python/blob/main/clases/ejercicios_resueltos_clase_1.ipynb)
-
-<!--
-ejerciocio 5
-    palabra = max(texto.replace(".", "").replace(",", "").split(), key=len)
-    return palabra, texto.replace(palabra, palabra.upper())
--->
-
-
-[clase 2 - loops](https://colab.research.google.com/github/qsebas/clases-python/blob/main/clases/Curso_Python_clase_2.ipynb)
+| Clase | Ejercicios |
+|-------|------------|
+|[clase 1 - tipos](https://colab.research.google.com/github/qsebas/clases-python/blob/main/clases/Curso_Python_clase_1.ipynb)|[Ejercicios resueltos Clase 1](https://colab.research.google.com/github/qsebas/clases-python/blob/main/clases/ejercicios_resueltos_clase_1.ipynb)|
+|[clase 2 - loops](https://colab.research.google.com/github/qsebas/clases-python/blob/main/clases/Curso_Python_clase_2.ipynb)|     |
+|[clase 3 - módulos](https://colab.research.google.com/github/qsebas/clases-python/blob/main/clases/Curso_Python_clase_3.ipynb)|     |
 
 <!--
 
@@ -53,4 +46,3 @@ print("Prueba ejercicio 4:", ejercicio_4([44, -33, 11, 22, 0, 42, 47, 12, 14]))
 
 -->
 
-[clase 3 - módulos](https://colab.research.google.com/github/qsebas/clases-python/blob/main/clases/Curso_Python_clase_3.ipynb)
